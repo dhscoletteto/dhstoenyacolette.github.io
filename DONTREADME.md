@@ -13,8 +13,8 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <ul>
 <li>Climbing Mountains</li>
 <a href="http://www.trailadventours.com/philippine-mountains/mt-pulag"> Climbed Mt. Pulag </a>
-<li>Travelling and Exploring Places</li>
-<li>Reading Adventure Books</li>
+<li>table tennis</li>
+<li>listening music</li>
 </ul>
 </body>
 </html>
