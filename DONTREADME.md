@@ -18,22 +18,3 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 </ul>
 </body>
 </html>
-h1{
-
-  font-family: verdana;
-  color:blue;
-}
-
- h2{
-  font-family: verdana;
-  color:blue;
-}
-
-p{
- font-family: verdana;
-}
-
-body {
-    background-color: #99ffcc;
-}
-
